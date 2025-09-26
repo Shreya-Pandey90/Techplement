@@ -10,6 +10,16 @@ This is a command-line application built in Python for basic contact management.
 * **Display All:** View a list of all saved contacts.
 * **Data Persistence:** Contacts are automatically saved to a file named `contacts.json` upon exit and loaded when the program starts.
 
+### Installation1.  **Clone the repository** to your local machine:    
+     1.```bash
+     git clone (https://github.com/Shreya-Pandey90/Techplement/tree/my-new-branch)
+     cd ContactManager
+     ```
+     2.  **Run the application** from your terminal:
+     ```bash
+     python contactmanagement.py
+     ``` 
+
 ## 🛠️ Usage
 
 When you run the script, a main menu will appear, prompting you for a choice:
